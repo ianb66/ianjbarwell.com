@@ -33,7 +33,9 @@ export default function Header() {
                 </a>
               ))}
               <a
-                href="#book-a-call"
+                href="https://tidycal.com/ianjbarwell/30-minute-meeting"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center px-5 py-2.5 bg-gradient-to-r from-blue-600 to-teal-500 text-white font-semibold rounded-full hover:opacity-90 transition-opacity duration-200 text-sm shadow-md"
               >
                 Book a Free Call
