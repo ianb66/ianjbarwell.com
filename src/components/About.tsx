@@ -31,7 +31,7 @@ const About = ({ onOpenModal }: AboutProps) => {
               From Beat Cop to AI Entrepreneur: My Unconventional Journey
             </h3>
             <p className="text-base sm:text-lg lg:text-xl text-gray-700 leading-relaxed mb-4">
-              <strong>At 66 years old, I learned Python, launched three AI-powered softwares, and built complete sales funnels with payment integration—all in less than a year.</strong>
+              <strong>At 66 years old, I learned Python, launched four AI-powered softwares, and built complete sales funnels with payment integration—all in less than a year.</strong>
             </p>
             <p className="text-base sm:text-lg text-gray-700 leading-relaxed">
               Most AI marketers will tell you about their computer science degrees or their years at tech startups. My story starts on the streets of Manchester as an 18-year-old police officer.

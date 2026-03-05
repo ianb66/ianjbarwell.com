@@ -38,6 +38,11 @@ export default function Footer() {
                   Tools & Resources
                 </a>
               </li>
+              <li>
+                <a href="https://tidycal.com/ianjbarwell/30-minute-meeting" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
+                  Book a Free Call
+                </a>
+              </li>
             </ul>
           </div>
 
@@ -45,6 +50,16 @@ export default function Footer() {
           <div>
             <h3 className="font-semibold text-lg mb-4">My Products</h3>
             <ul className="space-y-3">
+              <li>
+                <a 
+                  href="https://smartproductbuilder.com" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="text-gray-400 hover:text-white transition-colors"
+                >
+                  Smart Product Builder
+                </a>
+              </li>
               <li>
                 <a 
                   href="https://competewithclaude.com" 

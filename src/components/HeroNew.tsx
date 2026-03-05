@@ -95,7 +95,7 @@ const HeroNew = ({ onOpenModal }: HeroNewProps) => {
                 </li>
                 <li className="flex items-start gap-3">
                   <span className="text-2xl text-teal-500 flex-shrink-0">✓</span>
-                  <span className="text-gray-900 text-lg">Launch 3 businesses in a year (even at 66!)</span>
+                  <span className="text-gray-900 text-lg">Launch 4 businesses in a year (even at 66!)</span>
                 </li>
                 <li className="flex items-start gap-3">
                   <span className="text-2xl text-teal-500 flex-shrink-0">✓</span>
@@ -114,8 +114,8 @@ const HeroNew = ({ onOpenModal }: HeroNewProps) => {
               <div className="flex justify-center mb-4">
                 <Zap className="w-12 h-12" />
               </div>
-              <h3 className="text-4xl font-bold mb-2">10x Faster</h3>
-              <p className="text-white/90 text-lg">Development Speed</p>
+              <h3 className="text-4xl font-bold mb-2">4 Products</h3>
+              <p className="text-white/90 text-lg">Launched in Under 12 Months</p>
             </div>
             <div className="bg-white/10 backdrop-blur-sm rounded-xl p-8 text-center border border-white/20">
               <div className="flex justify-center mb-4">
@@ -124,15 +124,15 @@ const HeroNew = ({ onOpenModal }: HeroNewProps) => {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
                 </svg>
               </div>
-              <h3 className="text-4xl font-bold mb-2">Automated</h3>
-              <p className="text-white/90 text-lg">Workflows & Tasks</p>
+              <h3 className="text-4xl font-bold mb-2">£0</h3>
+              <p className="text-white/90 text-lg">Developer Costs</p>
             </div>
             <div className="bg-white/10 backdrop-blur-sm rounded-xl p-8 text-center border border-white/20">
               <div className="flex justify-center mb-4">
                 <TrendingUp className="w-12 h-12" />
               </div>
-              <h3 className="text-4xl font-bold mb-2">Scalable</h3>
-              <p className="text-white/90 text-lg">Growth Potential</p>
+              <h3 className="text-4xl font-bold mb-2">Under 12</h3>
+              <p className="text-white/90 text-lg">Months From Zero to Launch</p>
             </div>
           </div>
         </div>
