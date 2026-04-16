@@ -121,12 +121,12 @@ const ToolsResources: React.FC = () => {
       buttonText: 'Join Now'
     },
     {
-      name: 'Partner & Profit',
+      name: 'The Clickbank Profit Club',
       icon: '🤝',
-      description: 'Advanced partnership and profit-sharing training program for building scalable online softwares with strategic collaborations',
-      usage: 'Partner & Profit showed me how to leverage partnerships and joint ventures to multiply my income streams',
-      link: 'https://warriorplus.com/o2/a/rm2b0sv/0',
-      buttonText: 'Learn More'
+      description: 'Exclusive ClickBank training club providing proven strategies, tools, and insider knowledge for building consistently profitable ClickBank campaigns',
+      usage: 'The Clickbank Profit Club gave me the insider knowledge and strategies to build consistently profitable campaigns on ClickBank',
+      link: 'https://hop.clickbank.net/?vendor=cbprofclub&affiliate=ambprog&cbm=2jdus8&tid=main&cbpage=join',
+      buttonText: 'Join Now'
     },
     {
       name: 'OLSP System',
